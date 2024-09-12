@@ -41,7 +41,7 @@ Es seleccionado el archivo que contiene las compras de noviembre del 2019.
 La base de datos usada en el proyecto es una versión reducida de esta, proporcionada en el archivo [eCommerce.csv](../src/eCommerce.csv), obtenida mediante el código [process_data.py](../src/process_data.py).
 
 ## Uso
-Para iniciar la aplicación, ejecuta:
+Para iniciar el proyecto, ejecuta:
 ```bash
 chmod +x startup.sh
 ./startup.sh
